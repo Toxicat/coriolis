@@ -258,6 +258,43 @@
       "mass": 87
     }
   ],
+  "federal_gunship": [
+    {
+      "name": "Lightweight Alloy",
+      "class": 1,
+      "rating": "I",
+      "cost": 0,
+      "mass": 0
+    },
+    {
+      "name": "Reinforced Alloy",
+      "class": 1,
+      "rating": "I",
+      "cost": 37256244,
+      "mass": 50
+    },
+    {
+      "name": "Military Grade Composite",
+      "class": 1,
+      "rating": "I",
+      "cost": 83826547,
+      "mass": 92
+    },
+    {
+      "name": "Mirrored Surface Composite",
+      "class": 1,
+      "rating": "I",
+      "cost": 198110078,
+      "mass": 92
+    },
+    {
+      "name": "Reactive Surface Composite",
+      "class": 1,
+      "rating": "I",
+      "cost": 219532418,
+      "mass": 92
+    }
+  ],
   "python": [
     {
       "name": "Lightweight Alloy",
